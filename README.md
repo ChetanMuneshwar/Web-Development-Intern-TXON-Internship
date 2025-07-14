@@ -9,8 +9,11 @@ This repository showcases the projects I developed during my Web Development Int
 📁 Projects Included
 
 * Landing Page Design
+
 * Simple Calculator using JavaScript
+
 * To Do List
+
 * Personal Portfolio Website
   
 
