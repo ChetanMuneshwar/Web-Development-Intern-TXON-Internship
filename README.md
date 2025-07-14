@@ -14,7 +14,6 @@ This repository showcases the projects I developed during my Web Development Int
 
 * To Do List
 
-* Personal Portfolio Website
   
 
 📅 Internship Duration
